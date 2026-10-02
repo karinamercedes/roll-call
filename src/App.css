@@ -26,7 +26,7 @@ body {
      filling the space on wider screens */
   background-image: url('/images/hero.png');
   background-repeat: repeat;
-  background-size: 230px auto;
+  background-size: 300px auto;
 }
 
 .app { max-width: 480px; margin: 0 auto; padding: 32px 16px 80px; text-align: center; }
