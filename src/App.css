@@ -24,7 +24,7 @@ body {
   /* the roll photo, tiled -- reads as a single big tile on mobile (same
      visual weight as the old roll illustration) and as a repeating pattern
      filling the space on wider screens */
-  background-image: url('/roll-photo.jpg');
+  background-image: url('/images/hero.png');
   background-repeat: repeat;
   background-size: 230px auto;
 }
