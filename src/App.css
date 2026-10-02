@@ -25,7 +25,7 @@ body {
      visual weight as the old roll illustration) and as a repeating pattern
      filling the space on wider screens */
   background-image: url('/images/hero.png');
-  background-size: auto 33.34% ; 
+  background-size: 33.34% auto; 
   background-position: center center;
   background-repeat: repeat;
   background-attachment: fixed;
