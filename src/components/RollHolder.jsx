@@ -4,7 +4,7 @@ export default function RollHolder() {
   return (
     <div className="/images/hero.png">
       <img
-        src="/roll-photo.jpg"
+        src="/images/hero.png"
         alt="A roll of toilet paper hanging against a teal background"
         className="roll-photo"
       />
