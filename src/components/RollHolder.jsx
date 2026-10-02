@@ -2,11 +2,11 @@
 // reference image), framed as the hero above the stack of question squares.
 export default function RollHolder() {
   return (
-    <div className="/images/toilet-feet.jpg">
+    <div className="/images/roll-frame.jpg">
       <img
         src="/images/toilet-feet.jpg"
         alt="A roll of toilet paper hanging against a teal background"
-        className="hero"
+        className="roll-photo"
       />
     </div>
   )
