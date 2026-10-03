@@ -149,6 +149,7 @@ input:focus, button:focus-visible { outline: 2px solid var(--teal); outline-offs
   aspect-ratio: 4 / 3;
   overflow: hidden;
   border-radius: 12px;
+
 }
 
 .roll-photo {
