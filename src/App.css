@@ -136,7 +136,7 @@ input:focus, button:focus-visible { outline: 2px solid var(--teal); outline-offs
   h1 { font-size: 2.2rem; }
   h2 { font-size: 1.38rem; }
   .roll-photo-frame { width: 165px; }
-  .roll-photo { height: 100%; }
+  .roll-photo { height: 100vh; }
   .square-inner { padding: 44px 36px 40px; }
   input[type="number"] { font-size: 1.54rem; width: 110px; padding: 9px; }
   .chip { font-size: 0.99rem; padding: 9px 18px; }
