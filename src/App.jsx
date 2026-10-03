@@ -20,7 +20,7 @@ export default function App() {
         <RollHolder />
 
         <p className="muted small">
-          Based on UK usage averages (~64 sheets/person/day).{' '}
+          Based on UK usage averages.{' '}
           <a href="https://uk.nakedpaper.com/blogs/news/how-long-should-a-roll-of-toilet-paper-last" target="_blank" rel="noreferrer">
             See the source
           </a>.
