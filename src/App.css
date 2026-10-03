@@ -37,7 +37,7 @@ body {
    legible wherever it lands on the tiled background behind it. */
 .intro-card {
   background: rgba(255, 254, 251, 0.94);
-  border-radius: 18px;
+  border-radius: 16px 16px 0 0;
   padding: 32px 28px 28px;
   box-shadow: 0 16px 36px -22px rgba(6, 40, 46, 0.5);
 }
