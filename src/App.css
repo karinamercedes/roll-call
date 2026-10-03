@@ -1,6 +1,6 @@
 :root {
   --bg: #0a7a8c;            /* warm neutral, shows between background tiles */
-  --paper: #fffefb;
+  --paper: #f9f9f9;
   --tube: #d9b48f;
   --teal: #0a7a8c;          /* pulled from the photo's background */
   --teal-dark: #06505c;
@@ -9,7 +9,7 @@
   --text: #22312f;
   --heading: #12201f;
   --muted: #647876;
-  --line: #dde3df;
+  --line: #06505c;
   --font-heading: 'Space Grotesk', system-ui, sans-serif;
   --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
 }
@@ -36,7 +36,7 @@ body {
 /* Frosted paper panel behind the title + hero photo, so the text stays
    legible wherever it lands on the tiled background behind it. */
 .intro-card {
-  background: rgba(255, 254, 251, 0.94);
+  background: #f9f9f9;
   border-radius: 16px 16px 0 0;
   padding: 32px 28px 28px;
   box-shadow: 0 16px 36px -22px rgba(6, 40, 46, 0.5);
